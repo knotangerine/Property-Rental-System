@@ -47,9 +47,6 @@ The Property Rental System is a program that recommends the user a suitable acco
 ## Contribution
 
 - Muhammad Toufeeq
-- Ahrar Ali
-- Humna Ali
-- Zuha Fatima
 
 
 
